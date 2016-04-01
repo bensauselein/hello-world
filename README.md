@@ -1,4 +1,4 @@
 # hello-world
 hello-world repository tutorial
 
-Greeting Earthlings!
+Greetings Earthlings!
